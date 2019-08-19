@@ -1,5 +1,5 @@
 # Bioinformatics
-[Cell-type differential DNA methylation test](\DMCs_AD\)
+[Cell-type differential DNA methylation test](DMCs_AD/README.md)
 
 ## Second-generation sequencing
 - What?
