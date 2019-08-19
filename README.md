@@ -30,7 +30,6 @@
 
 ### Process
 
-
-    $f(k; r, p)_im$
+``$ y=\sum_{i=1}^n g(x_i) $``
 
 
