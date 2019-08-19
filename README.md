@@ -93,14 +93,19 @@ We did not find any glia- or neuron- specific DMC, but we find 1454 joint-DMCs a
 This project provides a new view to study the epigenetic modification in AD, through cell type specific DM analysis. This cell-type specific idea in the differential analysis could provide insights for diagnostic biomarkers and therapeutic targets. Future studies could address cell-type specific idea in AD area to validate new treatment and discover more biological progress associated with AD. 
 
 ### Reference: 
-Allen, Mariet et al. 2012. “Novel Late-Onset Alzheimer Disease Loci Variants Associate with Brain Gene Expression.” Neurology 79(3): 221–28.
-Alzheimer’s association. 2019. “What Is Alzheimer ’ S ?”
+Allen, Mariet et al. 2012. “Novel Late-Onset Alzheimer Disease Loci Variants Associate with Brain Gene Expression.” Neurology 79(3): 221–28.Alzheimer’s association. 2019. “What Is Alzheimer ’ S ?”
+
 Barrachina, Marta, and Isidre Ferrer. 2009. “DNA Methylation of Alzheimer Disease and Tauopathy-Related Genes in Postmortem Brain.” Journal of Neuropathology and Experimental Neurology 68(8): 880–91.
+
 Bennett, D.A. et al. 2012. “Overview and Findings from the Rush Memory and Aging Project.” Current Alzheimer Research 9(6): 646–63.
+
 Bennett, David A et al. 2018. “Religious Orders Study and Rush Memory and Aging Project.” Journal of Alzheimer’s disease : JAD 64(s1): S161–89. https://www.ncbi.nlm.nih.gov/pubmed/29865057.
+
 Bennett, David A, Julie A Schneider, Zoe Arvanitakis, and Robert S Wilson. 2012. “Overview and Findings from the Religious Orders Study.” Current Alzheimer research 9(6): 628–45.
+
 Braak, H, and E Braak. 1991. “Neuropathological Stageing of Alzheimer-Related Changes.” Acta neuropathologica 82(4): 239–59.
 Chouliaras, Leonidas et al. 2013. “Consistent Decrease in Global DNA Methylation and Hydroxymethylation in the Hippocampus of Alzheimer’s Disease Patients.” Neurobiology of Aging 34(9): 2091–99. http://dx.doi.org/10.1016/j.neurobiolaging.2013.02.021.
+
 Deepali J. Mane, Dr. Mrs. Vanita Kanase and Mr. Imtiyaz Ansari. 2018. “AN OVERVIEW OF TREATMENT FOR ALZHEIMER՚S DISEASE.” 5(6): 170–75.
 
 Esteller, Manel. 2002. “CpG Island Hypermethylation and Tumor Suppressor Genes: A Booming Present, a Brighter Future.” Oncogene 21(35 REV. ISS. 3): 5427–40.
