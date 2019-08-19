@@ -29,7 +29,6 @@
 - Roche 454
 
 ### Process
-
-``$ y=\sum_{i=1}^n g(x_i) $``
+![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 
 
