@@ -31,6 +31,6 @@
 ### Process
 
 ```math
-    f(k; r, p) \equiv \Pr(X = k) = \binom{k+r-1}{k} (1-p)^r p^k
+    f(k; r, p)_im
 ```
 
