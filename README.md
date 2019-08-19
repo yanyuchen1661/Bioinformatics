@@ -30,7 +30,7 @@
 
 ### Process
 
-```math
-    $$f(k; r, p)_im$$
-```
+
+    $f(k; r, p)_im$
+
 
